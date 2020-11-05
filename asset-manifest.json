@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/oki/static/css/main.9da2c16b.chunk.css",
-    "main.js": "/oki/static/js/main.c15f8b15.chunk.js",
-    "main.js.map": "/oki/static/js/main.c15f8b15.chunk.js.map",
+    "main.js": "/oki/static/js/main.c3153265.chunk.js",
+    "main.js.map": "/oki/static/js/main.c3153265.chunk.js.map",
     "runtime-main.js": "/oki/static/js/runtime-main.4fe21499.js",
     "runtime-main.js.map": "/oki/static/js/runtime-main.4fe21499.js.map",
-    "static/js/2.ceccf7ce.chunk.js": "/oki/static/js/2.ceccf7ce.chunk.js",
-    "static/js/2.ceccf7ce.chunk.js.map": "/oki/static/js/2.ceccf7ce.chunk.js.map",
+    "static/js/2.5ae71c12.chunk.js": "/oki/static/js/2.5ae71c12.chunk.js",
+    "static/js/2.5ae71c12.chunk.js.map": "/oki/static/js/2.5ae71c12.chunk.js.map",
     "static/js/3.d6a35789.chunk.js": "/oki/static/js/3.d6a35789.chunk.js",
     "static/js/3.d6a35789.chunk.js.map": "/oki/static/js/3.d6a35789.chunk.js.map",
     "index.html": "/oki/index.html",
     "service-worker.js": "/oki/service-worker.js",
     "service-worker.js.map": "/oki/service-worker.js.map",
     "static/css/main.9da2c16b.chunk.css.map": "/oki/static/css/main.9da2c16b.chunk.css.map",
-    "static/js/2.ceccf7ce.chunk.js.LICENSE.txt": "/oki/static/js/2.ceccf7ce.chunk.js.LICENSE.txt"
+    "static/js/2.5ae71c12.chunk.js.LICENSE.txt": "/oki/static/js/2.5ae71c12.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4fe21499.js",
-    "static/js/2.ceccf7ce.chunk.js",
+    "static/js/2.5ae71c12.chunk.js",
     "static/css/main.9da2c16b.chunk.css",
-    "static/js/main.c15f8b15.chunk.js"
+    "static/js/main.c3153265.chunk.js"
   ]
 }
