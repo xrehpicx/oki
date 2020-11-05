@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/oki/static/css/main.9da2c16b.chunk.css",
-    "main.js": "/oki/static/js/main.c3153265.chunk.js",
-    "main.js.map": "/oki/static/js/main.c3153265.chunk.js.map",
+    "main.js": "/oki/static/js/main.9ba34c23.chunk.js",
+    "main.js.map": "/oki/static/js/main.9ba34c23.chunk.js.map",
     "runtime-main.js": "/oki/static/js/runtime-main.4fe21499.js",
     "runtime-main.js.map": "/oki/static/js/runtime-main.4fe21499.js.map",
     "static/js/2.5ae71c12.chunk.js": "/oki/static/js/2.5ae71c12.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4fe21499.js",
     "static/js/2.5ae71c12.chunk.js",
     "static/css/main.9da2c16b.chunk.css",
-    "static/js/main.c3153265.chunk.js"
+    "static/js/main.9ba34c23.chunk.js"
   ]
 }
