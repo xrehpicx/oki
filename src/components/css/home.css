@@ -1,0 +1,84 @@
+.home {
+  min-height: 100vh;
+  position: relative;
+}
+
+.landing {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.landing > p {
+  margin: 15px;
+}
+
+.profile > header {
+  padding: 10px 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-bottom: 0;
+}
+
+.profile > header .myid {
+  font-size: 3rem;
+  color: var(--blue);
+  cursor: pointer;
+  display: block;
+  margin: 10px 0;
+}
+
+.profile > header .myid span {
+  line-height: 3rem;
+}
+
+.alert-text {
+  opacity: .5;
+}
+
+.connections header {
+  padding: 0 20px;
+}
+
+.connections header p {
+  font-size: 1.2rem;
+}
+
+.makeconnection {
+  padding: 20px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  background-color: var(--blue);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.add-connection {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+/*# sourceMappingURL=home.css.map */

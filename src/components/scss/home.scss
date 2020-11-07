@@ -1,0 +1,71 @@
+.home {
+    min-height: 100vh;
+    position: relative;
+}
+
+.landing {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    &>p {
+        margin: 15px;
+    }
+}
+
+.profile {
+
+
+    &>header {
+        padding: 10px 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 0;
+
+        .myid {
+            font-size: 3rem;
+            color: var(--blue);
+            cursor: pointer;
+            display: block;
+            margin: 10px 0;
+
+            span {
+                line-height: 3rem;
+            }
+        }
+    }
+
+}
+
+.alert-text {
+    // color: gray;
+    opacity: .5;
+}
+
+.connections {
+    header {
+        padding: 0 20px;
+
+        p {
+            font-size: 1.2rem;
+        }
+    }
+}
+
+.makeconnection {
+    padding: 20px;
+    margin: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--blue);
+    display: flex;
+    flex-direction: column;
+}
+
+.add-connection {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
